@@ -43,4 +43,4 @@
 1. This project is using computer vision to extract relevant information from Invoice PDF. 
 2. Some configuration made which is Transaction Item - String.
 3. Input - Name of the file 
-4. Output - Invoice No., Invoice date
+4. Output - Invoice No., invoice date, company name, amount, phone and currency.  
