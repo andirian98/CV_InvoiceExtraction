@@ -38,3 +38,9 @@
 2. Implement InitiAllApplications.xaml and CloseAllApplicatoins.xaml workflows, linking them in the Config.xlsx fields
 3. Implement GetTransactionData.xaml and SetTransactionStatus.xaml according to the transaction type being used (Orchestrator queues by default)
 4. Implement Process.xaml workflow and invoke other workflows related to the process being automated
+
+### Additional Information of this project ###
+1. This project is using computer vision to extract relevant information from Invoice PDF. 
+2. Some configuration made which is Transaction Item - String.
+3. Input - Name of the file 
+4. Output - Invoice No., Invoice date
